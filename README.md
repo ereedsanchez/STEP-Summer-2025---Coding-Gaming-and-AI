@@ -1,4 +1,5 @@
-# STEP-Summer-2025---Coding-Gaming-and-AI
+# STEP Summer 2025
+## Coding, Gaming, and AI
 
 This intensive 5-week hands-on course combines creative coding, game development, and cutting-edge AI technologies to give students a comprehensive introduction to modern digital creation. Students will learn JavaScript programming through P5.js, build custom fighting games, construct physical arcade cabinets, and develop AI-powered applications.
 
