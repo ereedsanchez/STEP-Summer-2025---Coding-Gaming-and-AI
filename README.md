@@ -1,5 +1,17 @@
 # STEP-Summer-2025---Coding-Gaming-and-AI
 
+This intensive 5-week hands-on course combines creative coding, game development, and cutting-edge AI technologies to give students a comprehensive introduction to modern digital creation. Students will learn JavaScript programming through P5.js, build custom fighting games, construct physical arcade cabinets, and develop AI-powered applications.
+
+The course begins with creative coding fundamentals, teaching students to "draw with code" by creating digital self-portraits and integrating machine learning through Teachable Machine. Students then dive into game development using IKAMEN Go and RetroArch while simultaneously building physical arcade cabinets with custom controllers. In the third week, they'll leverage AI tools to rapidly develop personal portfolio websites using Vercel and modern web technologies.
+
+The program culminates with advanced computer vision projects, including training AI models for animal recognition and building solar-powered camera systems. Throughout the course, students work in collaborative breakout groups, allowing them to specialize in areas of greatest interest while maintaining exposure to all technologies.
+
+By course completion, students will have created a diverse portfolio including interactive coded artwork, custom fighting games, functional arcade hardware, professional websites, and AI-powered applications. This unique blend of creative expression, technical programming, hardware construction, and artificial intelligence provides students with both artistic and technical skills highly relevant to today's digital landscape.
+
+Duration: 5 weeks (7 days total - first week is 2 days only)
+Format: Daily 3-hour sessions (1.5 hours morning, 1.5 hours afternoon)
+Prerequisites: No prior programming experience required
+Final Outcome: Complete digital portfolio showcasing all created projects
 
 ## Schedule 
 
